@@ -1,9 +1,9 @@
 # Laravel SMTP Configuration
 
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/neil/mail-smtp.svg?style=flat-square)](https://packagist.org/packages/neil/mail-smtp)
-[![Latest Issue](https://img.shields.io/github/issues/nileshmailbook/smtp.svg?style=flat-square)](https://github.com/nileshmailbook/smtp/issues)
-[![Total Downloads](https://img.shields.io/packagist/dt/neil/mail-smtp.svg?style=flat-square)](https://packagist.org/packages/neil/mail-smtp)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/neil/mail-smtp.svg?style=flat-square)](https://packagist.org/packages/nilesh/laravel-smtp)
+[![Latest Issue](https://img.shields.io/github/issues/nileshmailbook/smtp.svg?style=flat-square)](https://github.com/nileshmailbook/laravel-smtp/issues)
+[![Total Downloads](https://img.shields.io/packagist/dt/neil/mail-smtp.svg?style=flat-square)](https://packagist.org/packages/nilesh/laravel-smtp)
 
  
 ## Description
@@ -49,3 +49,5 @@ php artisan vendor:publish
 ```
 
 Now enjoy the simple mail function on the fly.
+Alternate link if this package not working : https://github.com/nileshmailbook/smtp
+
