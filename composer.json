@@ -1,0 +1,29 @@
+{
+    "name": "nilesh/laravel-smtp",
+    "description": "this laravel package incorporate to end-user to create dynamic configuration of SMTP in existing project and allow sending mail through it.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nilesh katre",
+            "email": "Nileshmailbook@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php": "^7.1.3",
+		"laravel/framework": "5.8.*",
+	},
+    "autoload": {
+        "psr-4": {
+            "Neil\\MailSetting\\": "src/"
+        }
+    },
+     "extra": {       
+        "laravel": {
+            "providers": [
+                "Neil\\MailSetting\\MailSetServiceProvider"
+            ]
+        }
+    }
+}
