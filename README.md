@@ -1,9 +1,9 @@
 # Laravel SMTP Configuration
 
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/neil/mail-smtp.svg?style=flat-square)](https://packagist.org/packages/nilesh/laravel-smtp)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/nilesh/laravel-smtp.svg?style=flat-square)](https://packagist.org/packages/nilesh/laravel-smtp)
 [![Latest Issue](https://img.shields.io/github/issues/nileshmailbook/smtp.svg?style=flat-square)](https://github.com/nileshmailbook/laravel-smtp/issues)
-[![Total Downloads](https://img.shields.io/packagist/dt/neil/mail-smtp.svg?style=flat-square)](https://packagist.org/packages/nilesh/laravel-smtp)
+[![Total Downloads](https://img.shields.io/packagist/dt/nilesh/laravel-smtp.svg?style=flat-square)](https://packagist.org/packages/nilesh/laravel-smtp)
 
  
 ## Description
