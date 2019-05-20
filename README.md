@@ -24,7 +24,7 @@ This package can be used in Laravel 5.8 or higher.
 You can install the package via composer:
 
 ``` bash
-composer require neil/mail-smtp
+composer require nilesh/laravel-smtp
 ```
 
 The service provider will automatically get registered.
